@@ -1,5 +1,9 @@
-# 我的第一个 Python 程序（第 0 天）
-print("Hello, AI 学习之旅!")
+# 第1课练习：变量与字符串
+name = "lsqxhpsl"
+age = 23
+city = "长治"
 
-# 让 Python 帮你算一道数学题
-print(1 + 2 + 3 + 4 + 5)
+print("大家好，我是" + name)
+print("我今年", age, "岁")
+print("我在" + city)
+print("明年我就", age + 1, "岁了")
